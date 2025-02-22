@@ -1,2 +1,2 @@
 # Blighted
-A Blighted Fog Game
+A Frog Platformer
